@@ -1,0 +1,370 @@
+Logged In as admin
+'Reports' Found
+'Administration' Found
+'Help' Found
+Clicked on Reports
+'Users' Found
+'System Administration' Found
+'Application' Found
+'Virus Scan Reports' Found
+Clicked on Administration
+'Manage Users' Found
+'Server Information' Found
+'Server Configuration' Found
+'Server Processes' Found
+'Monitor system activity' Found
+'Admin' Found
+Clicked on profile link
+'admin' Found
+'Edit Profile' Found
+'Change Password' Found
+'Set Preferences' Found
+'Sign out' Found
+Clicked on Server Configuration
+'Server Configuration' found: Title
+'View and update server and application settings' found: Title
+'Update' found
+'Cancel' found
+'Server Configuration' option found
+'Email and Notification Settings' option found
+'Delivery Settings' option found
+'Package Settings' option found
+'Workspace Settings' option found
+'Antivirus Settings' option found
+'User Settings' option found
+'Contact and Group Settings' option found
+'Sign in and Password' option found
+'User Registration' option found
+'User Interface' option found
+'reCAPTCHA Image Verification Settings' option found
+'Microsoft Outlook Add-in Settings' option found
+'SMTP API Settings' option found
+'Proxy Server Settings' option found
+'Intranet And Extranet Settings' option found
+'Mobile Settings' option found
+'Edit' option found in 'Server Configuration' field
+'Edit' option found in 'Email and Notification Settings' field
+'Edit' option found in 'Delivery Settings' field
+'Edit' option found in 'Package Settings' field
+'Edit' option found in 'Workspace Settings' field
+'Edit' option found in 'Antivirus Settings' field
+'Edit' option found in 'User Settings' field
+'Edit' option found in 'Contact and Group Settings' field
+'Edit' option found in 'Sign in and Password' field
+'Edit' option found in 'User Registration' field
+'Edit' option found in 'User Interface' field
+'Edit' option found in 'reCAPTCHA Image Verification Settings' field
+'Edit' option found in 'Microsoft Outlook Add-in Settings' field
+'Edit' option found in 'SMTP API Settings' field
+'Edit' option found in 'Proxy Server Settings' field
+'Edit' option found in 'Intranet And Extranet Settings' field
+'Edit' option found in 'Mobile Settings' field
+
+Server Configuration
+'Company name' found
+'System name' found
+'Administrator email' found
+'Time zone' found
+Dropdown list content matches in 'Time zone' field
+'Locale language' found
+'Locale country' found
+
+Email & Notification Settings
+ 'Notification mail server' field found
+ 'Notification mail server username' field found
+ 'Notification mail server password' field found
+'Set' option found
+'Clear' found
+'Notification mail server port' found
+ 'Encrypted connection' field found
+Dropdown list content matches in 'Encrypted connection' field
+ 'Notification sender' field found
+ 'Notification link protocol' field found
+'HTTP' found
+'HTTPS' found
+ 'Notify user when password reset by an administrator' field found
+'Yes' found
+'No' found
+ 'Notify user when password reset by user' field found
+'Yes' found
+'No' found
+ 'System notification sender' field found
+ 'Populate username for delivery notification links' field found
+'Yes' found
+'No' found
+
+Delivery Settings
+ 'Default secure message' field found
+ 'Default delivery notification message' field found
+ 'Delivery notification footer (uneditable by sender)' field found
+ 'Default delivery notification message' field found
+'List files in delivery notification message' found
+ 'Delivery expires after (in days)' field found
+'Apply to all users' found
+ 'Always require recipients to sign in' field found
+'Yes' found
+'No' found
+ 'Require recipients to sign in by default' field found
+'Yes' found
+'No' found
+ 'Enable secure reply' field found
+'Yes' found
+'No' found
+'Show secure reply section by default' found
+ 'Delimiter character for auto-complete' field found
+Dropdown list content matches in 'Delimiter character for auto-complete' field
+'PayPal Payment: Configuration' found
+'Enable PayPal' found
+'Yes' found
+'No' found
+ 'PayPal payment account' field found
+ 'PayPal API username' field found
+ 'PayPal API password' field found
+ 'PayPal signature' field found
+ 'List of users who can charge for delivery' field found
+ 'Payment privacy policy URL' field found
+ 'Payment refund policy URL' field found
+'Verify PayPal configuration settings' found
+'Express Delivery: Show options/Hide options' found: Panel-Title
+ 'Default mode' field found
+'Show options' found
+'Hide options' found
+'Show secure message when options are hidden' found
+'Show notification message when options are hidden' found
+'Configure limited sender settings' found
+
+Package Settings
+ 'Notify user when added as a package owner or sender' field found
+'Yes' found
+'No' found
+ 'Allow users to delete multiple packages' field found
+'Yes' found
+'No' found
+ 'Package deletes after (in days)' field found
+'Apply to existing packages' found
+ 'Reminder before package deletion (in days)' field found
+ 'Hide auto-deletion fields if not editable' field found
+'Yes' found
+'No' found
+ 'List of owners who can override package deletion' field found
+ 'Unrestricted senders' field found
+ 'Default recipient inclusion list' field found
+ 'Default recipient exclusion list' field found
+ 'File type restrictions' field found
+'Allow unrestricted senders to bypass file type restrictions' found
+ 'Allow applet for upload and download' field found
+'Yes' found
+'No' found
+ 'File upload and download with applet allowed for' field found
+ 'Default value for overwrite files checkbox' field found
+'Checked' found
+'Unchecked' found
+ 'Enable secure reply to all' field found
+'Yes' found
+'No' found
+
+Workspace Settings
+ 'Enable workspaces' field found
+'Yes' found
+'No' found
+ 'Allowed sender licenses for collaboration' field found
+'(Maximum sender licenses: 100)' found
+ 'Allowed collaborators per user' field found
+ 'Workspace deletes after (in days)' field found
+'Apply to existing workspaces' found
+ 'Reminder before workspace deletion (in days)' field found
+'Hide auto-deletion fields if not editable' found
+'Yes' found
+'No' found
+'List of managers who can override workspace deletion' found
+ 'Default notification settings' field found
+ 'Notification type' field found
+ 'New file or folder uploaded' field found
+ 'File or folder updated' field found
+ 'New workspace comment added' field found
+ 'Workspace deleted' field found
+ 'File or folder downloaded' field found
+ 'File or folder deleted' field found
+ 'Workspace details updated' field found
+ 'User added' field found
+ 'User deleted' field found
+ 'User removes self from workspace' field found
+
+Antivirus Settings
+ 'Protect against viruses' field found
+'Yes' found
+'No' found
+ 'Trusted user-file patterns' field found
+'Allow maximum file size' found
+'Yes' found
+'No' found
+ 'Maximum file size (MB)' field found
+'Metascan server' found
+'Local' found
+'Remote' found
+ 'Metascan server URL' field found
+
+User Settings
+ 'Enable compliance role' field found
+'Yes' found
+'No' found
+ 'Enforce user quota' field found
+'Yes' found
+'No' found
+ 'Quota per user (MB)' field found
+ 'Maximum quota allowed (MB)' field found
+ 'Enable user expiration' field found
+'Yes' found
+'No' found
+ 'Inactivity period (in days)' field found
+'Action to perform if inactive' found
+'Expire user' found
+'Do not expire user, only remove Sender role' found
+ 'Send first warning message before (in days)' field found
+ 'Send final warning message before (in days)' field found
+ 'Expiration exclusion list' field found
+ 'Delete expired users after (in days)' field found
+
+Contact and Group Settings
+'Manage Exchange Server connections' found
+
+Sign in and password Settings
+ 'Session timeout (in minutes)' field found
+ 'Show domain field on sign in page (for LDAP/AD only)' field found
+'Yes' found
+'No' found
+ 'Show remember username field in sign in page' field found
+'Yes' found
+'No' found
+ 'Turn auto-complete on' field found
+'Yes' found
+'No' found
+ 'Require re-authentication for viewing each delivery' field found
+'Yes' found
+'No' found
+ 'Maximum sign in attempts before locking user account' field found
+ 'Auto-unlock after (in minutes)' field found
+ 'User auto-unlock limit' field found
+ 'Automatically expire user password' field found
+'Yes' found
+'No' found
+ 'Password remains valid for (in days)' field found
+'Warn before expiration (in days)' found
+'Require users to change password after admin update' found
+'Yes' found
+'No' found
+ 'Allow old user password to be reused as new password' field found
+'Yes' found
+'No' found
+ 'Password length' field found
+'Min' found
+'Max' found
+ 'Required characters for password' field found
+'Uppercase letters [A-Z]' found
+'Lowercase letters [a-z]' found
+'Digits [0-9]' found
+'Non-alphanumeric characters [~,<,{,+,etc.]' found
+'Any' found
+'Specify' found
+ 'Enable external authentication source' field found
+'Yes' found
+'No' found
+
+User Registration Settings
+'Allow self-registration' found
+'Yes, for everyone' found
+'Yes, for delivery recipients only' found
+'No' found
+ 'Require administrator approval' field found
+ 'Require activation' field found
+ 'Self-registration not allowed for' field found
+ 'Send registration request alerts to' field found
+ 'Registration not allowed message' field found
+ 'Confirmation email for self-registration' field found
+'Yes' found
+'No' found
+ 'Assign roles for self-registered users' field found
+'Recipient' found
+'Limited sender' found
+'Sender' found
+ 'Allow Outlook add-in for new registrations' field found
+'Yes' found
+'No' found
+ 'Require terms of service' field found
+'Yes' found
+'No' found
+ 'Terms of service' field found
+ 'Require password reset question' field found
+'Yes' found
+'No' found
+'Maximum password reset attempts' found
+'Password reset questions (leave all blank to allow users to enter their own question)' found: Panel-Title
+'Question 1:' found
+'Question 2:' found
+'Question 3:' found
+'Question 4:' found
+'Question 5:' found
+'Code:' found
+'Code:' found
+'Code:' found
+'Code:' found
+'Code:' found
+
+User Interface Settings
+ 'Browser window title tag' field found
+ 'CSS stylesheet location' field found
+ 'Logo location' field found
+ 'Logo links to (optional)' field found
+ 'Logo width (pixels)' field found
+ 'Logo height (pixels)' field found
+ 'Custom sign in text (top)' field found
+'Reset to original value' found
+ 'Custom sign in text (right)' field found
+'Reset to original value' found
+ 'Custom web page footer' field found
+'Reset to original value' found
+ 'Custom help URL' field found
+
+reCAPTCHA image verification Settings
+ 'Enable reCAPTCHA' field found
+'Yes' found
+'No' found
+ 'reCAPTCHA public key' field found
+ 'reCAPTCHA private key' field found
+'Solve a reCAPTCHA to test image verification settings' found
+
+Microsoft Outlook Add-in Settings
+'Configure Outlook add-in policies' found
+
+SMTP API Settings
+ 'Allow SMTP Input (API)' field found
+'Yes' found
+'No' found
+ 'Mail server name' field found
+ 'Mail server username' field found
+ 'Mail server password' field found
+'Set' found
+'Clear' found
+
+Proxy server Settings
+ 'Use proxy server' field found
+'Yes' found
+'No' found
+ 'Proxy host' field found
+ 'Proxy port' field found
+ 'Username' field found
+ 'Password' field found
+
+Intranet & Extranet Settings
+'Intranet' found
+'Intranet And Extranet: Setting' found
+'Setting' found
+'For intranet' found
+'For extranet' found
+ 'Allow AD authentication' field found
+ 'Allow LDAP authentication' field found
+
+Mobile Settings
+'MobileIron app is required' found
+'Yes' found
+'No' found

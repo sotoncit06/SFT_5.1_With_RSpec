@@ -1,0 +1,9 @@
+assert_variable_name,assert_value
+Sign in confirmation value,Sign out
+Sign in fail confirmation value,Invalid sign in information provided. Please try again.
+User locked for invalid password value,"Invalid username or password, or the account has been locked. Please try again later or contact a system administrator."
+Sign out confirmation value,Sign in
+Pending user approved confirmation value,Successfully activated user account
+Manage user page confirmation value,Manage Users
+Password change confirmation value,"Your password has been updated "
+Delivery send confirmation value,Delivery created!

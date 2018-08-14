@@ -1,0 +1,39 @@
+Logged In as admin
+Clicked on Reports
+Clicked on Administration
+Clicked on profile link
+Clicked on Server Configuration
+
+Server Configuration
+
+Email & Notification Settings
+
+Delivery Settings
+
+Package Settings
+
+Workspace Settings
+
+Antivirus Settings
+
+User Settings
+
+Contact and Group Settings
+
+Sign in and password Settings
+
+User Registration Settings
+
+User Interface Settings
+
+reCAPTCHA image verification Settings
+
+Microsoft Outlook Add-in Settings
+
+SMTP API Settings
+
+Proxy server Settings
+
+Intranet & Extranet Settings
+
+Mobile Settings

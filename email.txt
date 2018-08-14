@@ -1,0 +1,6 @@
+it 'should Sign in as '+ConstantVariables::USER_NAME[1] do
+
+          ob=SignIn::UserSignIn.new
+          ob.user_signin(server,Thread.current[:driver],ConstantVariables::USER_NAME[1],password) #sakib1
+
+        end

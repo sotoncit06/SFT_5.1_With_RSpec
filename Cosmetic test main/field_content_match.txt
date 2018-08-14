@@ -1,0 +1,88 @@
+ 'Company name' field's contents match
+ 'System name' field's contents match
+ 'Administrator email' field's contents match
+ 'Locale language' field's contents match
+ 'Locale country' field's contents match
+ 'Notification mail server' field's contents match
+ 'Notification mail server username' field's contents match
+ 'Notification mail server password' field's contents match
+ 'Notification mail server port' field's contents match
+ 'Notification sender' field's contents match
+ 'System notification sender' field's contents match
+ 'Default secure message' field's contents match
+ 'Default delivery notification message' field's contents match
+ 'Delivery notification footer (uneditable by sender)' field's contents match
+ 'Delivery expires after (in days)' field's contents match
+ 'PayPal payment account' field's contents match
+ 'PayPal API username' field's contents match
+ 'PayPal API password' field's contents match
+ 'PayPal signature' field's contents match
+ 'List of users who can charge for delivery' field's contents match
+ 'Payment privacy policy URL' field's contents match
+ 'Payment refund policy URL' field's contents match
+ 'Package deletes after (in days)' field's contents match
+ 'Reminder before package deletion (in days)' field's contents match
+ 'List of owners who can override package deletion' field's contents match
+ 'Unrestricted senders' field's contents match
+ 'Default recipient inclusion list' field's contents match
+ 'Default recipient exclusion list' field's contents match
+ 'File type restrictions' field's contents match
+ 'File upload and download with applet allowed for' field's contents match
+ 'Allowed sender licenses for collaboration' field's contents match
+ 'Allowed collaborators per user' field's contents match
+ 'Workspace deletes after (in days)' field's contents match
+ 'Reminder before workspace deletion (in days)' field's contents match
+ 'List of managers who can override workspace deletion' field's contents match
+ 'Trusted user-file patterns' field's contents match
+ 'Maximum file size (MB)' field's contents match
+ 'Metascan server URL' field's contents match
+ 'Quota per user (MB)' field's contents match
+ 'Maximum quota allowed (MB)' field's contents match
+ 'Inactivity period (in days)' field's contents match
+ 'Send first warning message before (in days)' field's contents match
+ 'Send final warning message before (in days)' field's contents match
+ 'Expiration exclusion list' field's contents match
+ 'Delete expired users after (in days)' field's contents match
+ 'Maximum sign in attempts before locking user account' field's contents match
+ 'Auto-unlock after (in minutes)' field's contents match
+ 'User auto-unlock limit' field's contents match
+ 'Password remains valid for (in days)' field's contents match
+ 'Warn before expiration (in days)' field's contents match
+ 'Password length(Min)' field's contents match
+ 'Password length(Max)' field's contents match
+ 'Required characters for password' field's contents match
+ 'Self-registration not allowed for' field's contents match
+ 'Send registration request alerts to' field's contents match
+ 'Registration not allowed message' field's contents match
+ 'Terms of service' field's contents match
+ 'Maximum password reset attempts' field's contents match
+ 'Question 1:' field's contents match
+ 'Question 2:' field's contents match
+ 'Question 3:' field's contents match
+ 'Question 4:' field's contents match
+ 'Question 5:' field's contents match
+ 'Code:' field's contents match
+ 'Code:' field's contents match
+ 'Code:' field's contents match
+ 'Code:' field's contents match
+ 'Code:' field's contents match
+ 'Browser window title tag' field's contents match
+ 'CSS stylesheet location' field's contents match
+ 'Logo location' field's contents match
+ 'Logo links to (optional)' field's contents match
+ 'Logo width (pixels)' field's contents match
+ 'Logo height (pixels)' field's contents match
+ 'Custom sign in text (top)' field's contents match
+ 'Custom sign in text (right)' field's contents match
+ 'Custom web page footer' field's contents match
+ 'Custom help URL' field's contents match
+ 'reCAPTCHA public key' field's contents match
+ 'reCAPTCHA private key' field's contents match
+ 'Mail server name' field's contents match
+ 'Mail server username' field's contents match
+ 'Mail server password' field's contents match
+ 'Proxy host' field's contents match
+ 'Proxy port' field's contents match
+ 'Username' field's contents match
+ 'Password' field's contents match
+ 'Intranet' field's contents match
